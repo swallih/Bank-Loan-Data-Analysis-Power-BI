@@ -82,15 +82,3 @@ This dashboard solution enhances visibility into lending operations, improves ri
 
 ---
 
-## Dashboard Preview
-
-### Executive Summary
-![Executive Summary](Screenshot 2025-12-28 220741.png)
-
-### Overview & Trends
-![Overview](Screenshot 2025-12-28 220811.png)
-
-### Detailed Insights
-![Details](Screenshot 2025-12-28 220844.png)
-
-
